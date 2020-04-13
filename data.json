@@ -1,0 +1,31 @@
+[{
+        "id": 1,
+        "todo": "set up our database",
+        "complete": true
+    },
+    {
+        "id": 2,
+        "todo": "create a package.json",
+        "complete": true
+    },
+    {
+        "id": 3,
+        "todo": "go buy some cake",
+        "complete": true
+    },
+    {
+        "id": 4,
+        "todo": "try new add function 3",
+        "complete": false
+    },
+    {
+        "id": 6,
+        "todo": "testing add 2",
+        "complete": false
+    },
+    {
+        "id": 7,
+        "todo": "testing add 3",
+        "complete": false
+    }
+]
